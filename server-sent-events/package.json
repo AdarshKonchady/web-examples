@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start:client": "npx serve@latest",
+    "start:server": "node server.mjs"
+  }
+}
